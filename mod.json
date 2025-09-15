@@ -1,0 +1,11 @@
+{
+  "name": "apolonost",
+  "displayName": "Apolon OST",
+  "author": "Vdoble",
+  "description": "The Official Soundtrack for Apolon! Music entirely by Vdoble.
+
+NOTE: Overrides vanilla music. Will remove vanilla tracks until disabled.",
+  "version": 1.0
+  "minGameVersion": 150
+  "dependencies": [apolon]
+}
